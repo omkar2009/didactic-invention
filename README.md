@@ -1,0 +1,1 @@
+hii im going to push this readme file through terminal
